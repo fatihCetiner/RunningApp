@@ -27,7 +27,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:gravity="start|center_vertical"
-                android:text="Running App"
+                android:text="Running"
                 android:textSize="22sp"
                 android:textStyle="bold"
                 android:textColor="@android:color/white"/>

@@ -1,9 +1,8 @@
-package com.example.runningapp.db
+package com.example.runningapp.domain.model
 
 import android.graphics.Bitmap
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-
 
 @Entity(tableName = "running_table")
 data class Run(

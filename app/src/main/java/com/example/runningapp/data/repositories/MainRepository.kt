@@ -1,7 +1,7 @@
-package com.example.runningapp.repositories
+package com.example.runningapp.data.repositories
 
-import com.example.runningapp.db.Run
-import com.example.runningapp.db.RunDAO
+import com.example.runningapp.domain.model.Run
+import com.example.runningapp.data.local.RunDAO
 import javax.inject.Inject
 
 class MainRepository @Inject constructor(

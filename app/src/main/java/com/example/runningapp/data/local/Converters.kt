@@ -1,4 +1,4 @@
-package com.example.runningapp.db
+package com.example.runningapp.data.local
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory

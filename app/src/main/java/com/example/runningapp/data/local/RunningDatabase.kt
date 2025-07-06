@@ -1,8 +1,9 @@
-package com.example.runningapp.db
+package com.example.runningapp.data.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
+import com.example.runningapp.domain.model.Run
 
 @Database(
     entities = [Run::class],
